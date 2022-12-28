@@ -1,0 +1,99 @@
+#hero {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('../WebTeknolojileriOdevi/img/shot-by-cerqueira-0o_GEzyargo-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+
+#hero .container {
+    height: 50vh;
+}
+
+#mercury {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('./img/carlos-kenobi-q24EFOEsKMM-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#mercury .container {
+    height: 300px;
+}
+
+#venus {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('../WebTeknolojileriOdevi/img/simon-lee-O3oIMSvv6O8-unsplash\ .jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#venus .container {
+    height: 300px;
+}
+
+#earth {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('../WebTeknolojileriOdevi/img/javier-miranda-Jn2EaLLYZfY-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#earth .container {
+    height: 300px;
+}
+
+#mars {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('../WebTeknolojileriOdevi/img/simon-lee-hrOXaenH640-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#mars .container {
+    height: 300px;
+}
+
+#jupiter {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('../WebTeknolojileriOdevi/img/planet-volumes-awYEQyYdHVE-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#jupiter .container {
+    height: 300px;
+}
+
+#saturn {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('../WebTeknolojileriOdevi/img/nasa-2W-QWAC0mzI-unsplash\ .jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#saturn .container {
+    height: 300px;
+}
+
+#uranus {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('../WebTeknolojileriOdevi/img/nasa-Li41RApUAQA-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#uranus .container {
+    height: 300px;
+}
+
+#neptun {
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url('../WebTeknolojileriOdevi/img/nasa-ScBkW9AKgcA-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#neptun .container {
+    height: 300px;
+}
